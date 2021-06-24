@@ -20,15 +20,15 @@
 <p align="center">
 
   <a href="https://web.whatsapp.com/send?phone=+5548999494828" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-white?style=flat-square&logo=WhatsApp&logoColor=ffffff&labelColor=25d366" />
   </a>
 
   <a href="mailto:contato@lucasmattos.com.br" alt="Email" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=D14836" />
   </a>
 
   <a href="https://www.linkedin.com/in/lucasdasilvamattos" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=ffffff&labelColor=2867B2" />
   </a>
 
 </p>
