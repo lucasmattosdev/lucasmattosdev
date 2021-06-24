@@ -6,6 +6,7 @@
               color: red;
             }
           </style>
+		<meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https:; style-src 'self' ; script-src 'self'">
 			    <img class="user-img" align="right" src="/lucasmattosdev/lucasmattosdev/main/img/user.png?raw=true" width="275"/>
         </div>
     </foreignObject>
