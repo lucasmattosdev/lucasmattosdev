@@ -6,8 +6,8 @@
               color: red;
             }
           </style>
-		<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-		<img class="user-img" align="right" src="/lucasmattosdev/lucasmattosdev/main/img/user.png?raw=true" width="275"/>
+		<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *"></meta>
+		<img src="/lucasmattosdev/lucasmattosdev/main/img/user.png?raw=true" width="275"/>
         </div>
     </foreignObject>
 </svg>
