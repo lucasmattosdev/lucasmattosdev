@@ -1,7 +1,7 @@
 <br>
 <br>
 
-<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/raw/main/img/user.png" width="300"></img>
+<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/raw/main/img/user.png" width="280"></img>
 
 <p align="center">
   <img src="https://github.com/lucasmattosdev/lucasmattosdev/blob/main/img/logo.png?raw=true" width="200"
