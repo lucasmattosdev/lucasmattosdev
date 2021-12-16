@@ -8,7 +8,7 @@
   alt="Lucas Mattos - Engenheiro de Software" />
 </p>
 
-<p align="center">Java | Flutter | Vue | React | Angular</p>
+<p align="center">Java | PostgreSQL | Flutter | Vue | React</p>
 <p align="center">
   💼&nbsp; Sou <b>Engenheiro de Software Sênior</b> &nbsp;
 </p>
