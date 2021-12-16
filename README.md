@@ -1,7 +1,7 @@
 <br>
 <br>
 
-<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/raw/main/img/user.png" width="280"></img>
+<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/blob/main/img/memoji-laptop.png?raw=true" width="280"></img>
 
 <p align="center">
   <img src="https://github.com/lucasmattosdev/lucasmattosdev/blob/main/img/logo.png?raw=true" width="200"
@@ -10,7 +10,7 @@
 
 <p align="center">Java | Flutter | Vue | React | Angular</p>
 <p align="center">
-  👨‍💻&nbsp; Sou <b>Engenheiro de Software Sênior</b> &nbsp;
+  💼&nbsp; Sou <b>Engenheiro de Software Sênior</b> &nbsp;
 </p>
 <p align="center">
   📌&nbsp; Atual de <b>Florianópolis</b>, <b>SC</b> &nbsp;
