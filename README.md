@@ -10,13 +10,13 @@
 
 <p align="center">Java | Flutter | Vue | React | Angular</p>
 <p align="center">
-  📌 &nbsp; Atual de <b>Florianópolis</b>, <b>SC</b> &nbsp;
+  👨‍💻&nbsp; Sou <b>Engenheiro de Software Sênior</b> &nbsp;
 </p>
 <p align="center">
-  📚 &nbsp; Formado em <b>Sistemas de Informação</b> &nbsp;
+  📌&nbsp; Atual de <b>Florianópolis</b>, <b>SC</b> &nbsp;
 </p>
 <p align="center">
-  🌐 &nbsp; Acesse <b><a href="https://www.lucasmattos.com.br" target="_blank">lucasmattos.com.br</a></b> &nbsp;
+  🌐&nbsp; Acesse <b><a href="https://www.lucasmattos.com.br" target="_blank">lucasmattos.com.br</a></b> &nbsp;
 </p>
 
 
