@@ -10,13 +10,13 @@
 
 <p align="center">Java | PostgreSQL | Flutter | Vue | React</p>
 <p align="center">
-  💼&nbsp; Sou <b>Engenheiro de Software Sênior</b> &nbsp;
+  💼&nbsp; I'm a <b>Full Stack Engineer</b> &nbsp;
 </p>
 <p align="center">
-  📌&nbsp; Atual de <b>Florianópolis</b>, <b>SC</b> &nbsp;
+  📌&nbsp; Live in <b>Florianópolis</b>, <b>SC</b> &nbsp;
 </p>
 <p align="center">
-  🌐&nbsp; Acesse <b><a href="https://www.lucasmattos.com.br" target="_blank">lucasmattos.com.br</a></b> &nbsp;
+  🌐&nbsp; More in <b><a href="https://www.lucasmattos.com.br" target="_blank">lucasmattos.com.br</a></b> &nbsp;
 </p>
 
 
