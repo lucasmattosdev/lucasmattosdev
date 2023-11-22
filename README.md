@@ -10,7 +10,7 @@
 
 <p align="center">Java | PostgreSQL | Flutter | Vue | React</p>
 <p align="center">
-  💼&nbsp; I'm a <b>Full Stack Engineer</b> &nbsp;
+  💼&nbsp; I'm a <b>Senior Software Engineer</b> &nbsp;
 </p>
 <p align="center">
   📌&nbsp; Live in <b>Florianópolis</b>, <b>SC</b> &nbsp;
