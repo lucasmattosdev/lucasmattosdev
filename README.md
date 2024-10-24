@@ -16,7 +16,7 @@
   📌&nbsp; Live in <b>Florianópolis</b>, <b>SC</b> &nbsp;
 </p>
 <p align="center">
-  🌐&nbsp; More in <b><a href="https://www.lucasmattos.com.br" target="_blank">lucasmattos.com.br</a></b> &nbsp;
+  🌐&nbsp; More in <b><a href="https://lucasmattos.dev" target="_blank">lucasmattos.dev</a></b> &nbsp;
 </p>
 
 
