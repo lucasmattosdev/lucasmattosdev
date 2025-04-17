@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-WhatsApp-1f1f1f?style=flat-square&logo=WhatsApp&logoColor=fff&labelColor=128c7e" /> &nbsp;
   </a>
 
-  <a href="mailto:contato@lucasmattos.com.br" alt="Email" target="_blank">
+  <a href="mailto:contato@lucasmattos.dev" alt="Email" target="_blank">
     <img src="https://img.shields.io/badge/-Email-1f1f1f?style=flat-square&logo=gmail&logoColor=fff&labelColor=D14836" /> &nbsp;
   </a>
 
