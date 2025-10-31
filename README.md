@@ -58,22 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <table align='center'>
-    <tr>
-      <td>
-        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmattosdev&layout=compact&theme=dark'>
-      </td>
-      <td>
-        <img height='172' src='https://github-readme-stats.vercel.app/api?username=lucasmattosdev&show_icons=true&theme=dark'>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -101,5 +85,6 @@
 </p>
 
 <br>
+
 
 
