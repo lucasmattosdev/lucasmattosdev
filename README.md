@@ -7,7 +7,7 @@
 
 <h1 align="left">👋 Hey, I’m Lucas Mattos</h1>
 
-<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/blob/main/img/memoji-laptop.png?raw=true" width="260" alt="Lucas Mattos Memoji" />
+<img align="right" src="https://github.com/lucasmattosdev/lucasmattosdev/blob/main/img/memoji-laptop.png?raw=true" width="25%" alt="Lucas Mattos Memoji" />
 
 <p align="left">
   I'm a <b>Senior Software Engineer</b> at <b>Mercado Livre</b> 🇧🇷 <br/>
@@ -101,4 +101,5 @@
 </p>
 
 <br>
+
 
